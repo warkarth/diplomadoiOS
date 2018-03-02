@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  layer
+//  prueba
 //
-//  Created by Ricardo Escobedo Solares on 16/02/18.
-//  Copyright © 2018 resco. All rights reserved.
+//  Created by markmota on 2/24/18.
+//  Copyright © 2018 markmota. All rights reserved.
 //
 
 import UIKit

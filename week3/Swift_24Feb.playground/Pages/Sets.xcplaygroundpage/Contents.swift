@@ -2,6 +2,9 @@
 
 import Foundation
 
-var str = "Hello, playground"
+//: Conjuntos
+
+var conjunto: Set<Int> = [1,2,3,1,2]
+
 
 //: [Next](@next)
