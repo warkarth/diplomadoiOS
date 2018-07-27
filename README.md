@@ -13,3 +13,5 @@ Alumno: Ricardo Escobedo
 3. (10%) Wireframe completo de la app. -> [link]()
 4. (5%) Pitch técnico (presentación y documento). -> [link](https://docs.google.com/presentation/d/1mTbQ19-mYgUvnrSBc7Yp1jO3ABxB24f-TxUPmj5C6qo/edit?usp=sharing)
 5. (60%) Proyecto Final. Desarrollo de la app. -> [link iOS App](https://github.com/warkarth/Hostess-ios) -> [link PHP Backend](https://github.com/cesaralv/App-Backend)
+
+![Alt Text](https://github.com/alejandrozepeda/diplomado-ios/blob/master/Hostess.gif)
