@@ -4,7 +4,7 @@ Alumno: Ricardo Escobedo
 
 ### Evaluación 
 
-1. (5%) Pitch Inicial (presentación y documento). -> [link](https://github.com/alejandrozepeda/diplomado-ios/tree/master/tareas/01_pitch)
+1. (5%) Pitch Inicial (presentación y documento). -> [link](https://github.com/warkarth/diplomadoiOS/tree/master/Homeworks/SmartU)
 2. (20%) Ejercicios del libro iOS Programming.
     - Capítulo 6 Vistas Programáticas. -> [link](https://github.com/warkarth/diplomadoiOS/tree/master/6-ProgrammaticViews/WorldTrotter)
     - Capítulo 7 Localización. -> [link](https://github.com/warkarth/diplomadoiOS/tree/master/7-Localization/WorldTrotter)
